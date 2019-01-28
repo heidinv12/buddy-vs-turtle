@@ -31,13 +31,12 @@ Buddy vs Turtle is a small game where two players have to push a button to reach
 - Battery adapter
 - USB Cable A-to-B
 
-# Circuit
+# Circuit Diagrams
 
-**Schema**
+**Schematic**
+![](/media/buddy_vs_turtle_schematic.PNG)
 
 **Breadboard**
+![](/media/budy_vs_turtle_breadboard.PNG)
 
 **Note:** when connecting the active buzzer, the shorter pin is ground.
-
-**Pin setup**
-
