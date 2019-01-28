@@ -21,15 +21,15 @@ Buddy vs Turtle is a small game where two players have to push a button to reach
 - UNO R3 Controller Board
 - LCD1602 Module (with pin header)
 - Breadboard
-- Potentiometer
+- 10KΩ Potentiometer
 - Active Buzzer
-- Resistor(lcd)
-- 2 resistos (button)
-- 2 switch buttons
+- 220/330Ω resistors (for LCD)
+- 2 x 10KΩ resistor(for the button)
+- 2 x switch buttons
 - Jumpter wires
 - 9v battery
 - Battery adapter
-- USB Cable A to B
+- USB Cable A-to-B
 
 # Circuit
 
