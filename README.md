@@ -4,6 +4,9 @@ Buddy vs Turtle is a small game where two players have to push a button to reach
 
 **Demo**
 
+https://www.youtube.com/watch?v=xQIcVEtwegA
+
+
 # How to install
 
 - Clone the project to your local system (or copy the code from Buddy_vs_turtle.ino)
