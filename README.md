@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=xQIcVEtwegA
 - Connect the arduino board to your computer using the A-to-B USB
 - In the Arduino IDE, compile the code to ensure it runs properly
 - Download the code to the arduino board
-- OPTIONAL: once the code has been downloaded to the board, disconnect the USB cable from the board and connect the 9V batterry(use battery adapter) instead.
+- OPTIONAL: once the code has been downloaded to the board, disconnect the USB cable from the board and connect the 9V battery(use battery adapter) instead.
 - Have fun :D
 
 
