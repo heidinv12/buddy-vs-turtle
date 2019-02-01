@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=xQIcVEtwegA
 - 220/330Ω resistors (for LCD)
 - 2 x 10KΩ resistor(for the button)
 - 2 x switch buttons
-- Jumpter wires
+- Jumper wires
 - 9v battery
 - Battery adapter
 - USB Cable A-to-B
